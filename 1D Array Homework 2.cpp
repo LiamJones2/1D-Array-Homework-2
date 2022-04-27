@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     //first homework, NOT FINSIHED!!!!!!!!
-   
+   //Tes comment ignore
     int nums[100];
     int n;
     cout << "Please enter a number >= 3\n";
